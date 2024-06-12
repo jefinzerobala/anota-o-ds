@@ -1,0 +1,12 @@
+Extensão No Spring Initializer 
+
+Flyway Migration
+
+- criar no resources uma pasta (directory) com nome "bd"
+
+- criar dentro de bd uma pasta com nome "migration" --- irá ficar "bd.migration" (NÃO criar direto uma pasta com esse nome todo, pois irá dar erro, criar um de cada vez que ele vai automático já
+
+/////////////
+
+lá em cima (na frente de "Project") clicar nos três pontinhos - Tree Appearance - Compact Midle Packages 
+
